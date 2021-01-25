@@ -2,8 +2,11 @@ module Inflation
 
 # Write your package code here.
 export
-    ces, ces_index
+    ces, ces_index, cobb_douglas
 
-include("utlitly.jl")
+include("utility.jl")
+
+greet() = print("Hello")
+
 
 end
