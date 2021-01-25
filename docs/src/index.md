@@ -6,7 +6,7 @@
 ## Functions
 
 ```@docs
-func(x)
+
 ```
 
 ## Index
