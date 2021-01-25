@@ -1,4 +1,4 @@
-# Inflation.jl Documentation
+# Inflation.jl Documentation Test
 
 ```@contents
 ```
